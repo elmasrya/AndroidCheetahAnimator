@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidCheetahAnimator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">Animated Cheetah</string>
+    <string name="slower_str">Slower</string>
+    <string name="faster_str">Faster</string>
+    <string name="reverse_str">Reverse</string>
+    <string name="pause_str">Pause</string>
+    <string name="resume_str">Resume</string>
+    
+</resources>
